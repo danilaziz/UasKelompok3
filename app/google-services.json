@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800814938441",
+    "firebase_url": "https://tugas-uas-4f967-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-uas-4f967",
+    "storage_bucket": "tugas-uas-4f967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800814938441:android:1fadb62bfc9e6ba0120298",
+        "android_client_info": {
+          "package_name": "com.rini.bajuonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800814938441-enpfhvpjr7hfunje8d5vnqvubj6jt8b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bweCDFAlpW51wsmwU2EXls9lsTljwfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800814938441-enpfhvpjr7hfunje8d5vnqvubj6jt8b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
